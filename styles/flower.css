@@ -90,7 +90,6 @@ font-weight: 400px;
     text-align: center;
 
 }
-
 .input-items{
     padding: 120px 290px ;
 }
@@ -99,7 +98,6 @@ font-weight: 400px;
     height: 60px;
 border-radius: 8px;
 background: #FFF;
-
 }
 
 .input-title{
@@ -108,3 +106,31 @@ font-size: 40px;
 font-weight: 800;
 
 }
+/* main end  */
+
+/* footer style start  */
+footer{
+    background-color: black;
+    text-align: center;
+
+}
+.footer-title{
+color: azure;
+font-size: 48px;
+font-weight: 800;
+padding-top: 100px;
+}
+footer p{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+footer h6{
+ color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+padding-bottom: 100px;
+
+}
+/* footer style end  */
