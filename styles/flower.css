@@ -47,20 +47,24 @@ header img{
 /* hot deal part  start */
 .deal-part{
     display: flex;
-    gap: 220px;
-    margin: 100px 430px;
+    gap: 180px;
+    margin-top: 130px ;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
+
 }
  .deal-writing-part{
     text-align: center;
     margin-top: 230px;
     margin-bottom: 160px;
+    margin-left: 200px;
+    
  }
  .deal-description{
 color: rgba(39, 39, 39, 0.60);
 font-size: 18px;
-font-weight: 400;
+font-weight: 400px;
+
 
  }
  /* hot deal part end  */
@@ -70,15 +74,32 @@ font-weight: 400;
     margin: 120px 660px 50px 660px;
 }
 .flower-pic{
-    margin: 50px 220px 130px 240px;
+    margin: 50px 240px 130px 240px;
 }
 .flower-pic img{
-    padding: 10px;
+    padding: 7px;
 }
 /* .flower-part  end  */
 /* last part  */
 .input-div{
     background-image: url('../Flower/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin: 0  260px 130px 240px;
+    width: 1440px;
+    height: 400px;
+    text-align: center;
+
+}
+
+.input-items{
+    padding: 120px 290px ;
+}
+#email-id{
+    width: 600px;
+    height: 60px;
+border-radius: 8px;
+background: #FFF;
+
 }
 
 .input-title{
