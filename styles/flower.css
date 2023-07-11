@@ -101,6 +101,23 @@ font-weight: 400px;
  }
  
    /* 3rd section  */
+
+
+   .selling-point{
+    display: flex;
+    gap: 30px;
+    margin: 50px 240px 130px 240px;
+}
+
+.seller-box p{
+    padding-left: 50px;
+}
+.seller-box{
+box-shadow: 10px 10px 8px 5px cornflowerblue;
+border: 5px solid whitesmoke;
+}
+
+   /* 4th section  */
 .flower-part{
     text-align: center;
     margin: 120px 660px 50px 660px;
@@ -112,7 +129,7 @@ font-weight: 400px;
     padding: 7px;
 }
 
-/* 4 th section  */
+/* 5th section  */
 .input-div{
     background-image: url('../Flower/Rectangle\ 9.png');
     background-repeat: no-repeat;
@@ -166,4 +183,6 @@ padding-bottom: 100px;
 
 }
 /* footer style end  */
+
+
 
