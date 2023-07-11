@@ -9,6 +9,10 @@ color: #FFF;
 height: 40px;
 width: 100px;
 }
+span{
+    color: #E55473;;
+    
+ }
   
 
 /* header style start  */
@@ -40,6 +44,7 @@ header img{
 /* header style end  */
 
 /* main satrt  */
+/* hot deal part  start */
 .deal-part{
     display: flex;
     gap: 220px;
@@ -58,7 +63,16 @@ font-size: 18px;
 font-weight: 400;
 
  }
- span{
-    color: #E55473;;
-    
- }
+ /* hot deal part end  */
+   /* .flower-part start  */
+.flower-part{
+    text-align: center;
+    margin: 120px 660px 50px 660px;
+}
+.flower-pic{
+    margin: 50px 220px 130px 240px;
+}
+.flower-pic img{
+    padding: 10px;
+}
+/* .flower-part  end  */
