@@ -37,3 +37,28 @@ header img{
     font-size: 18px;
     font-weight: 400;
 }
+/* header style end  */
+
+/* main satrt  */
+.deal-part{
+    display: flex;
+    gap: 220px;
+    margin: 100px 430px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+ .deal-writing-part{
+    text-align: center;
+    margin-top: 230px;
+    margin-bottom: 160px;
+ }
+ .deal-description{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+
+ }
+ span{
+    color: #E55473;;
+    
+ }
