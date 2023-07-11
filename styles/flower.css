@@ -76,3 +76,14 @@ font-weight: 400;
     padding: 10px;
 }
 /* .flower-part  end  */
+/* last part  */
+.input-div{
+    background-image: url('../Flower/Rectangle\ 9.png');
+}
+
+.input-title{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+
+}
