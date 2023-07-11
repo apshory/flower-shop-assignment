@@ -44,7 +44,39 @@ header img{
 /* header style end  */
 
 /* main satrt  */
-/* hot deal part  start */
+      
+/* 1st section  */
+.radious-div{
+    display: flex;
+    gap: 30px;
+    margin: 50px 240px 130px 240px;
+    
+ }
+ .radious-div a{
+    color: black;
+    text-align: center;
+    display: block;
+    padding-top: 30px;
+ }
+
+
+.radious-pic-1{
+    background-color:  rgba(167, 33, 98, 0.15);
+    border-radius: 250px 250px 0 0 ;
+    padding: 100px 80px 0 80px;
+} 
+.radious-pic-2{
+    background: rgba(5, 151, 160, 0.15);
+    border-radius: 250px 250px 0 0 ;
+    padding: 100px 50px 50px 50px;
+}
+
+.radious-pic-3{
+    background: rgba(71, 125, 17, 0.15);
+    border-radius: 250px 250px 0 0 ;
+    padding: 60px 70px 0 70px;
+}
+/* 2nd section  */
 .deal-part{
     display: flex;
     gap: 180px;
@@ -67,8 +99,8 @@ font-weight: 400px;
 
 
  }
- /* hot deal part end  */
-   /* .flower-part start  */
+ 
+   /* 3rd section  */
 .flower-part{
     text-align: center;
     margin: 120px 660px 50px 660px;
@@ -79,8 +111,8 @@ font-weight: 400px;
 .flower-pic img{
     padding: 7px;
 }
-/* .flower-part  end  */
-/* last part  */
+
+/* 4 th section  */
 .input-div{
     background-image: url('../Flower/Rectangle\ 9.png');
     background-repeat: no-repeat;
@@ -134,3 +166,4 @@ padding-bottom: 100px;
 
 }
 /* footer style end  */
+
